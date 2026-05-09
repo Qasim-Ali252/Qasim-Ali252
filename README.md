@@ -119,14 +119,6 @@
 
 ---
 
-## ✨ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 
 ## 🌐 Contact Me :
 
@@ -148,6 +140,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 ---
 
-## 💬 Quote
 
-> "I don't just build apps — I design scalable systems."
