@@ -42,19 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qasim-Ali252&theme=tokyonight" />
-</p>
-
----
-
-
 ## 🔥 Featured Projects
 
 ### 🤖 Email Automation System  
@@ -111,13 +98,7 @@
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Ali252&theme=tokyo-night" />
-</p>
-
----
 
 
 ## 🌐 Contact Me :
