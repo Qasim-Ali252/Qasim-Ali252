@@ -9,14 +9,14 @@
 <br>
 <h1> About Me </h1> 
 
-- 🔥 Building **Production-Level SaaS Systems (KFC-style Architecture)**
-- 🤖 Automation Specialist (**Make.com Workflows**)  
-- 💼 6 Months Experience as **Full Stack Intern**  
-- 🧠 Focused on **Scalable Backend + System Design**  
-- ⚡ Passionate about **Real-world problem solving**
+- Building **Production-Level SaaS Systems (KFC-style Architecture)**
+- Automation Specialist (**Make.com Workflows**)  
+- 6 Months Experience as **Full Stack Intern**  
+- Focused on **Scalable Backend + System Design**  
+- Passionate about **Real-world problem solving**
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
 
 ### 💻 Languages
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### 🤖 Email Automation System  
 [![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/Qasim-Ali252/Email-automation-project)
