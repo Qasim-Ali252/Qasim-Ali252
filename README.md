@@ -7,7 +7,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQyaWd4aWF0dXF4OWpsb2R1bDYzZGg4ZXo3YnVxZTV3ZjVxdzZqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyjrpqaUVqCELGuQVr/giphy.gif" height="350" width="300"/>
 <br>
-## 👨‍💻 About Me 
+<h1> About Me </h1> 
 
 - 🔥 Building **Production-Level SaaS Systems (KFC-style Architecture)**
 - 🤖 Automation Specialist (**Make.com Workflows**)  
@@ -46,55 +46,31 @@
 
 ### 🤖 Email Automation System  
 [![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/Qasim-Ali252/Email-automation-project)
-
-- Automation workflows for email systems  
-- Reduces manual effort & improves efficiency  
-- Real-world automation use case  
-
+ 
 ---
 
 ### 🧠 Smart Notes V2  
-[![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/Qasim-Ali252/Smart-notes-v2)
-
-- Smart productivity app  
-- Organized data handling  
-- Clean UI/UX implementation  
+[![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/Qasim-Ali252/Smart-notes-v2)  
 
 ---
 
 ### 🛡️ CyberGuard Toolkit  
 [![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/Qasim-Ali252/CyberGuard-Toolkit)
-
-- Cybersecurity toolkit  
-- Practical security concepts  
-- Learning + real-world usage  
-
+ 
 ---
 
 ### 🍏 Apple Store Clone  
 [![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/Qasim-Ali252/Apple-store)
 
-- Modern e-commerce UI  
-- Apple-inspired design  
-- Focus on UX  
-
 ---
 
 ### 🤖 KD6 Assistant  
 [![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/Qasim-Ali252/KD6-Assistant-)
-
-- AI assistant project  
-- Automation + productivity focus  
-- Custom logic system  
-
+ 
 ---
 
 ### 🌐 The Folks Frontend  
 [![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/faseey/The_Folks_Frontend)
-
-- Collaborative frontend project  
-- Team development experience  
-- Real-world UI work  
 
 ---
 
