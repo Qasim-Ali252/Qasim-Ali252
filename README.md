@@ -24,10 +24,13 @@
 ![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus)
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
+### 🌐 Frontend 
+![HTML](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5) 
+![CSS](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3) 
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react) 
+![Next JS](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwind-css) 
+![GSAP](https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
